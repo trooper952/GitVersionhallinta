@@ -31,3 +31,5 @@ Matias Enström, liila, rummutus
 Lucas Markamo, Oranssi, Sali
 
 Simo Palonen, sininen, pelit
+
+Aaron Hartikka, Punanen, Sali
